@@ -21,7 +21,7 @@ NIFY LABS builds production-level cryptocurrency trading bots and portfolio auto
 - [NIFY BTC V2](https://github.com/Daniyalmasih/NIFY_BTC_V2) — BTC Strategy Engine (coming soon)
 
 ## 📧 Contact
-Professional inquiries: `your.email@example.com`  
+Professional inquiries: `sify483@gmail.com`  
 Portfolio: [KaiaLabs](https://github.com/Daniyalmasih/KaiaLabs)
 
 ---
